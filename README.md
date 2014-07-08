@@ -1,8 +1,6 @@
-# multiple
+# multiple [![NPM version](https://badge.fury.io/js/multiple.png)](http://badge.fury.io/js/multiple)
 
 multiple strings
-
-[![NPM version](https://badge.fury.io/js/multiple.png)](http://badge.fury.io/js/multiple)
 
 ---
 
