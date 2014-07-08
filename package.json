@@ -1,0 +1,23 @@
+{
+  "name": "multiple",
+  "version": "0.2.1",
+  "description": "multiple strings",
+  "keywords": [
+    "multiple",
+    "repeat",
+    "foreach"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:afc163/multiple.git"
+  },
+  "main": "index.js",
+  "author": "afc163 <afc163@gmail.com>",
+  "scripts": {
+    "test": "tap test/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^0.4.11"
+  }
+}
