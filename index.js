@@ -1,8 +1,3 @@
-module.exports = function(str, times) {
-  times = times || 0;
-  var result = '';
-  for (var i=0; i<times; i++) {
-    result += str;
-  }
-  return result;
+module.exports = function(string, times) {
+  return new Array( (times || 0) + 1 ).join(string);
 }
